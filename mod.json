@@ -1,0 +1,9 @@
+{
+  //don't change the text behind ':' and don't remove the comma ','.
+  "name": "Example", //don't use '_' or spaces but use '-',Name for Root, Example: titan-unit.
+  "displayName": "Example", //displayname if you broswe mod In Game.
+  "version": "0.0.0", //Version of the mod, change this if mod is Update.
+  "minGameVersion": 135, //minGameVersion minimum version game engine/build, Use 135 or above.
+  "description": "Example, this example created by MCPC", //description for you mod (details for this mod) and free to change.
+  "dependencies": [], //dependencies for you mod, Example: LMC write the "little-machine-core" to add dependencies.
+  "hidden": false //if you mod is UI/Configure/Cheats/Tool/or something (not have content but have button in layer - UI/GUI) change to true.
